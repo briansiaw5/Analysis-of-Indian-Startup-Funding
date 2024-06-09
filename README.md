@@ -26,9 +26,9 @@ This project analyzes funding trends, patterns, and insights for Indian startups
 ## Data Sources
 
 The data for this analysis was collected from the following sources:
-1. **SQL Server**: Contains detailed funding records.
-2. **GitHub Repository**: Hosts additional datasets on startup funding.
-3. **OneDrive Link**: Provides up-to-date data on recent funding rounds.
+1. **SQL Server**: Contains 2020 and 2021 datasets.
+2. **GitHub Repository**: Contains 2018 dataset.
+3. **OneDrive Link**: Contains 2019 dataset.
 
 ## Data Preparation and Cleaning
 
