@@ -114,7 +114,8 @@ Below are links to access my published article on LinkedIn as well as my PowerBI
 | Source           | Link                                                                                      |
 |------------------|-------------------------------------------------------------------------------------------|
 | **LinkedIn**     | [LinkedIn Link](https://www.linkedin.com/posts/brian-siaw_my-article-analyzing-the-funding-of-startups-activity-7205670977886679040-O0v5?utm_source=share&utm_medium=member_desktop)                                                                                          |
-| **PowerBI**      | [PowerBI Link]()                                                                                            |
+| **PowerBI**      | [PowerBI Link](https://app.powerbi.com/groups/me/reports/539164b4-9b08-4401-bf3e-
+869619fd38a9?ctid=4487b52f-f118-4830-b49d-3c298cb71075&amp;pbi_source=linkShare)                                                                                            |
 | **OneDrive**     | [OneDrive Link](https://azubiafrica-my.sharepoint.com/personal/teachops_azubiafrica_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fteachops%5Fazubiafrica%5Forg%2FDocuments%2FCareer%20Accelerator%20Data%5FSets%2FLP1%20Datasets&ga=1)  |
 | **Github**       | [Github Link](https://github.com/Azubi-Africa/Career_Accelerator_LP1-Data_Analysis)                                            |
 
