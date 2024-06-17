@@ -72,6 +72,9 @@ The project includes various visualizations to illustrate the findings:
 - Bar charts representing sectoral preferences and funding stages.
 - Line graphs depicting trends in funding amounts over time.
 
+![Dashboard]([image_url](https://github.com/briansiaw5/Analysis-of-Indian-Startup-Funding/blob/main/Dashboard.png))
+
+
 ## Conclusion
 
 The analysis reveals a dynamic and evolving Indian startup ecosystem, with significant insights into sectoral trends, investment stages, key investors, and geographical distribution. These findings can inform entrepreneurs, investors, and policymakers about the current state and future direction of the startup landscape in India.
