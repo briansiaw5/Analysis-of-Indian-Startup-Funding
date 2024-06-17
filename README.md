@@ -72,7 +72,11 @@ The project includes various visualizations to illustrate the findings:
 - Bar charts representing sectoral preferences and funding stages.
 - Line graphs depicting trends in funding amounts over time.
 
-![Dashboard]([image_url](https://github.com/briansiaw5/Analysis-of-Indian-Startup-Funding/blob/main/Dashboard.png))
+## Dashboard
+
+Here is a visualization of the analysis:
+
+![Dashboard](https://raw.githubusercontent.com/briansiaw5/Analysis-of-Indian-Startup-Funding/main/Dashboard.png)
 
 
 ## Conclusion
